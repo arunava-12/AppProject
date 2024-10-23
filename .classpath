@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+    <classpathentry kind="lib" path="libs/jcalendar-1.4.jar"/>
+    <classpathentry kind="lib" path="libs/rs2xml.jar"/>
+    <classpathentry kind="lib" path="libs/mysql-connector-java-8.0.28.jar"/>
+    <classpathentry kind="src" path="src"/>
+    <classpathentry kind="output" path="bin"/>
+</classpath>
+

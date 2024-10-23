@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib\\jcalendar-1.4.jar",
+        "d:\\APP PROJECT\\main\\AirlineManagementSystem\\lib\\jcalendar-1.4.jar",
+        "d:\\APP PROJECT\\main\\AirlineManagementSystem\\lib\\rs2xml.jar",
+        "d:\\APP PROJECT\\main\\AirlineManagementSystem\\lib\\mysql-connector-java-8.0.28.jar"
+    ]
+}

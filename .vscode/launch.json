@@ -1,0 +1,92 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AddCustomer",
+            "request": "launch",
+            "mainClass": "airlinemanagementsystem.AddCustomer",
+            "projectName": "AirlineManagementSystem_9ad785c8"
+        },
+        {
+            "type": "java",
+            "name": "BoardingPass",
+            "request": "launch",
+            "mainClass": "airlinemanagementsystem.BoardingPass",
+            "projectName": "AirlineManagementSystem_9ad785c8"
+        },
+        {
+            "type": "java",
+            "name": "BookFlight",
+            "request": "launch",
+            "mainClass": "airlinemanagementsystem.BookFlight",
+            "projectName": "AirlineManagementSystem_9ad785c8"
+        },
+        {
+            "type": "java",
+            "name": "Cancel",
+            "request": "launch",
+            "mainClass": "airlinemanagementsystem.Cancel",
+            "projectName": "AirlineManagementSystem_9ad785c8"
+        },
+        {
+            "type": "java",
+            "name": "FlightInfo",
+            "request": "launch",
+            "mainClass": "airlinemanagementsystem.FlightInfo",
+            "projectName": "AirlineManagementSystem_9ad785c8"
+        },
+        {
+            "type": "java",
+            "name": "Home",
+            "request": "launch",
+            "mainClass": "airlinemanagementsystem.Home",
+            "projectName": "AirlineManagementSystem_9ad785c8"
+        },
+        {
+            "type": "java",
+            "name": "JourneyDetails",
+            "request": "launch",
+            "mainClass": "airlinemanagementsystem.JourneyDetails",
+            "projectName": "AirlineManagementSystem_9ad785c8"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "airlinemanagementsystem.Login",
+            "projectName": "AirlineManagementSystem_9ad785c8"
+        },
+        {
+            "type": "java",
+            "name": "BookFlight",
+            "request": "launch",
+            "mainClass": "airlinemanagementsystem.BookFlight",
+            "projectName": "AirlineManagementSystem_9ad785c8",
+            "classPaths": [
+                "${workspaceFolder}/lib/jcalendar-1.4.jar"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "FlightInfo",
+            "request": "launch",
+            "mainClass": "airlinemanagementsystem.FlightInfo",
+            "projectName": "AirlineManagementSystem_9ad785c8",
+            "classPaths": [
+                "${workspaceFolder}/lib/rs2xml.jar"
+            ]
+        }
+        
+    ]
+}
